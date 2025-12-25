@@ -223,6 +223,4 @@ Observation:
 ```
 
 ## Azure VM: Create Azure VM Instance
-## This for test
-## This is my second Test
 - 
